@@ -1,0 +1,8 @@
+project descripsion
+
+
+Proyek ini bertujuan untuk menganalisis hubungan antara faktor gaya hidup seseorang dengan kualitas tidurnya menggunakan logika fuzzy.
+Dataset yang digunakan adalah "Sleep Health and Lifestyle Dataset", yang berisi informasi mengenai pola tidur, tingkat stres, aktivitas fisik, dan kebiasaan hidup individu.
+
+
+link GitHub:https://github.com/indahnisa77/UIB_AI_233105_INDAH-KHAIRUNNISA 
